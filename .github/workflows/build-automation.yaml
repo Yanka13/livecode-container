@@ -1,4 +1,4 @@
-name: Deploy to App Runner
+name: Build automation
 on:
   push:
     branches: [ master ]
