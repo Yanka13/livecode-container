@@ -6,7 +6,7 @@ flask-migrate==2.0.3
 flask-script==2.0.5
 flask-sqlalchemy==2.2
 itsdangerous==0.24
-jinja2==2.9.6
+jinja2==2.11.3
 mako==1.2.3 ; python_version >= '3.7'
 markupsafe==1.1.1
 pyparsing==2.2.0
